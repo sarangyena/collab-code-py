@@ -8,3 +8,5 @@ if deci == 'y':
     print('tama ka pogi si eds!')
 else:
     print('oops yari ka kay eds!')
+    
+    tignan mo nga pre kung naiba ko
